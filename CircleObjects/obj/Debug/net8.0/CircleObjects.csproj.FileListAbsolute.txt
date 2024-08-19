@@ -3,3 +3,13 @@ C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleO
 C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.AssemblyInfo.cs
 C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.csproj.CoreCompileInputs.cache
 C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.sourcelink.json
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\bin\Debug\net8.0\CircleObjects.exe
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\bin\Debug\net8.0\CircleObjects.deps.json
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\bin\Debug\net8.0\CircleObjects.runtimeconfig.json
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\bin\Debug\net8.0\CircleObjects.dll
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\bin\Debug\net8.0\CircleObjects.pdb
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.dll
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\refint\CircleObjects.dll
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.pdb
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.genruntimeconfig.cache
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\ref\CircleObjects.dll

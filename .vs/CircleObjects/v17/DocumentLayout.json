@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\16167\\source\\repos\\CircleObjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5549F27F-96EA-431E-B634-ECE6BC9BBA5C}|CircleObjects\\CircleObjects.csproj|c:\\users\\16167\\source\\repos\\circleobjects\\circleobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5549F27F-96EA-431E-B634-ECE6BC9BBA5C}|CircleObjects\\CircleObjects.csproj|solutionrelative:circleobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5549F27F-96EA-431E-B634-ECE6BC9BBA5C}|CircleObjects\\CircleObjects.csproj|c:\\users\\16167\\source\\repos\\circleobjects\\circleobjects\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5549F27F-96EA-431E-B634-ECE6BC9BBA5C}|CircleObjects\\CircleObjects.csproj|solutionrelative:circleobjects\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\16167\\source\\repos\\CircleObjects\\CircleObjects\\Circle.cs",
+              "RelativeDocumentMoniker": "CircleObjects\\Circle.cs",
+              "ToolTip": "C:\\Users\\16167\\source\\repos\\CircleObjects\\CircleObjects\\Circle.cs",
+              "RelativeToolTip": "CircleObjects\\Circle.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:06:47.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\16167\\source\\repos\\CircleObjects\\CircleObjects\\Program.cs",
+              "RelativeDocumentMoniker": "CircleObjects\\Program.cs",
+              "ToolTip": "C:\\Users\\16167\\source\\repos\\CircleObjects\\CircleObjects\\Program.cs",
+              "RelativeToolTip": "CircleObjects\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:04:09.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

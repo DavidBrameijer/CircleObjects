@@ -1,0 +1,5 @@
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.AssemblyInfoInputs.cache
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.AssemblyInfo.cs
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.csproj.CoreCompileInputs.cache
+C:\Users\16167\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.sourcelink.json
